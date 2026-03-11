@@ -1,1 +1,3 @@
-![Pinterest Pin](/96qsw.gif)
+<div align="center">
+  <img src="/96qsw.gif" alt="Pinterest Pin">
+</div>
