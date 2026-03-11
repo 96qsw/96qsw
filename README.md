@@ -1,48 +1,23 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=I'm+Epuisant+%F0%9F%92%8E)](https://git.io/typing-svg)
 
-# 💫 Proposed GitHub Profile
 
-<div align="center">
+🧽 About Me :
+---
+[💻・Linux Users](https://www.debian.org/)
+[💻・Windows Users](https://www.microsoft.com/en-us/software-download/windows11)
 
-<img src="[https://readme-typing-svg.demolab.com?font=Courgette&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+Epuisant+%F0%9F%92%8E;Fullstack+Developer;Linux+Enthusiast](https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DCourgette%26size%3D35%26pause%3D1000%26color%3DF7F7F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DI%27m%2BEpuisant%2B%25F0%259F%2592%258E%3BFullstack%2BDeveloper%3BLinux%2BEnthusiast)" alt="Typing SVG" />
+🍜 Socials :
+---
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.xql-porfolio.xyz/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram/xql.dev) [![](https://visitcount.itsvg.in/api?id=senju-sh&icon=0&color=0)](https://kirosb.fr/docs.html)
 
-<p align="center">
-<a href="https://instagram/xql.dev"><img src="[https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%2523E4405F.svg%3Fstyle%3Dfor-the-badge%26logo%3DInstagram%26logoColor%3Dwhite)" alt="Instagram"></a>
-<a href="[https://www.xql-porfolio.xyz/](https://www.xql-porfolio.xyz/)"><img src="[https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Discord-%25237289DA.svg%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite)" alt="Discord"></a>
-</p>
+💻 Tech Stack :
+---
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+# 🔎 GitHub Stats :
+---
+![](https://github-readme-stats.vercel.app/api?username=accapareur&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=accapareur&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=accapareur&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-
-### 🌐 Connect with me
-
-</div>
-
-## 🧽 About Me
-
-Je suis un passionné d'automatisation et de développement backend, naviguant entre la stabilité de **Debian** et la polyvalence de **Windows**.
-
-* 🔭 Je travaille actuellement sur des projets liés à l'analyse de données.
-* 🌱 J'apprends continuellement de nouvelles méthodes pour optimiser mes scripts Bash et Python.
-* ⚡ Fun fact : Je préfère passer 2 heures à automatiser une tâche qui en prend 5 minutes.
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Languages & Core
-
-### ⚙️ Backend & Infrastructure
-
-### 📊 Databases
-
----
-
-## 🔎 GitHub Stats
-
-<div align="center">
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=accapareur&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true](https://github-readme-stats.vercel.app/api?username=accapareur&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)" />
-<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=accapareur&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=accapareur&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)" />
-</div>
-
-<p align="center">
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=accapareur&theme=highcontrast&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=accapareur&theme=highcontrast&hide_border=false)" width="100%" />
-</p>
