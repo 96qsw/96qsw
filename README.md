@@ -10,7 +10,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-top: 20px;
-  ">96qsw.</h1>
+  </h1>
   <img src="https://lanyard.cnrad.dev/api/308302051455139840" alt="Discord Status">
 
 </div>
